@@ -1,0 +1,7 @@
+spark.read.csv()
+printSchema()
+show()
+count()
+colums()
+dtypes
+describe()
